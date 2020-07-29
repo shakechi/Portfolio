@@ -1,6 +1,8 @@
 {
-  "name": "portfolio",
+  "name": "Portfolio",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/shakechi/Portfolio.git",
+  "author": "shakechi <shakechi.git@gmail.com>",
   "license": "MIT"
 }
